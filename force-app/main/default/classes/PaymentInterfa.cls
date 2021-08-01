@@ -11,8 +11,6 @@ public void someMethod(){
 
     System.System.debug('This is a test');
 
-
-
     }
    
 
