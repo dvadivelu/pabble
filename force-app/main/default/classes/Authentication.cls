@@ -13,12 +13,16 @@ public void someMethod2(){
 
     }
     
-public void someMethod1(){
+public void someMethod3(){
 
     System.System.debug('This is a test');
 
     }
    
- 
+ public void someMethod4(){
+
+    System.System.debug('This is a test');
+
+    }
    
 }
