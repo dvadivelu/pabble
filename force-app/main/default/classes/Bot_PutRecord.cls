@@ -18,7 +18,7 @@ public with sharing class Bot_PutRecord {
 
 
      
-        public void someMethod7(){
+        public void someMethod10(){
  
 
 
@@ -27,6 +27,12 @@ public with sharing class Bot_PutRecord {
 
     }
 
+ public void someMethod11(){
+ 
+
+    System.System.debug('This sdfdsfsdfdsis a test');
+
+    }
          
         public void someMethod8(){
  
