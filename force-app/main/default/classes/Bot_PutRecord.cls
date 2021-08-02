@@ -5,5 +5,11 @@ public with sharing class Bot_PutRecord {
     System.System.debug('This is a test');
 
     }
+
+    public void someMethod5(){
+
+    System.System.debug('This is a test');
+
+    }
    
 }
