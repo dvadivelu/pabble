@@ -28,4 +28,10 @@ public void someMethod(){
     System.System.debug('This is a test');
 
     }
+
+            public void someMethod7(){
+
+    System.System.debug('This is a test');
+
+    }
 }
