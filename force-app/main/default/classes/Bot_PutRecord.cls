@@ -21,7 +21,9 @@ public with sharing class Bot_PutRecord {
         public void someMethod7(){
  
 
+
     System.System.debug('This is a testSup!!!');
+
 
     }
 
