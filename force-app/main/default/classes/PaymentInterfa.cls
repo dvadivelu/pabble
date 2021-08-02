@@ -28,6 +28,11 @@ public void someMethod(){
     System.System.debug('This is a test');
 
     }
+            public void someMethodwow(){
+
+    System.System.debug('This is a test');
+
+    }
 
             public void someMethod7(){
 
