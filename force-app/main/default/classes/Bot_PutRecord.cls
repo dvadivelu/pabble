@@ -10,7 +10,7 @@ public with sharing class Bot_PutRecord {
         public void someMethod6(){
  
 
-    System.System.debug('This is a test');
+    System.System.debug('This is a test123');
 
     }
 
