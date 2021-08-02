@@ -7,7 +7,7 @@ public void someMethod(){
 
     }
 
-public void someMethod2(){
+public void someMethod21(){
 
     System.System.debug('This is a test');
 
