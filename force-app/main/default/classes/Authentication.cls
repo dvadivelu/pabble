@@ -33,4 +33,11 @@ public void someMethod3(){
 
     }
    
+
+    public void someMethod6(){
+
+    System.System.debug('This is a test');
+
+    }
+   
 }
