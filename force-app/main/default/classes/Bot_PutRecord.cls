@@ -22,7 +22,7 @@ public with sharing class Bot_PutRecord {
  
 
 
-    System.System.debug('This is a testSup!!!');
+    System.System.debug('This iss a testSup!!!');
 
 
     }
